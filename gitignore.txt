@@ -29,8 +29,8 @@
 # Executables
 *.exe
 *.out
-
-*.DS_Store
+.vscode
+.DS_Store
 *.app
 *.idea
 .idea
