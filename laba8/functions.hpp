@@ -1,5 +1,4 @@
-#ifndef FUNCTIONS_HPP
-#define FUNCTIONS_HPP
+#pragma_once
 
 #include <vector>
 #include <string>
